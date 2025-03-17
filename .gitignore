@@ -2,3 +2,7 @@ notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
 notebooks/submission*
+notebooks/*/*.json
+notebooks/*/chest_xray/*
+notebooks/*/Dataset-Final/*
+notebooks/*/*.zip

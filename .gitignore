@@ -6,3 +6,4 @@ notebooks/*/*.json
 notebooks/*/chest_xray/*
 notebooks/*/Dataset-Final/*
 notebooks/*/*.zip
+notebooks/Sistem Rekomendasi/*
